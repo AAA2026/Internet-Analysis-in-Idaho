@@ -32,7 +32,6 @@ These dependencies can typically be installed using pip:
 ```bash
 pip install pandas numpy matplotlib seaborn geopandas shapely scipy
 ```
-
 ## Usage Instructions
 
 To replicate or explore the analysis:
