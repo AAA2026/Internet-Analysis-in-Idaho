@@ -1,4 +1,4 @@
-# Regional Electricity & Internet Analysis in Idaho
+# Idaho Broadband & Radiance Analysis
 
 ## Project Overview
 
